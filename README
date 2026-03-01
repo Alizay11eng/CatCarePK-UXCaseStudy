@@ -1,0 +1,181 @@
+🐾 CatCare PK – UX/UI Case Study
+
+ 📌 Overview
+
+CatCare PK is a mobile application concept designed specifically for cat owners in Pakistan. The app focuses on health tracking, reminders, community support, and simplified pet management in one centralized platform.
+Unlike global pet apps that target all animals, this solution is tailored specifically for cats, addressing localized needs and common challenges faced by Pakistani pet owners.
+
+ 🎯 Problem Statement:
+
+Many cat owners in Pakistan face the following issues:
+
+- Forgetting vaccination and feeding schedules
+- Difficulty tracking weight and health history
+- Lack of quick access to trusted veterinarians
+- No centralized platform to connect with other cat owners
+- Stress due to scattered information
+
+Existing pet apps are:
+
+- Too broad (covering all pets)
+- Not localized
+- Overloaded with unnecessary features
+
+There is a need for a focused, simple, and empathetic solution.
+
+💡 Solution:
+
+CatCare PK provides:
+
+- A centralized health dashboard
+- Smart reminders & alerts
+- Calendar scheduling system
+- Community interaction feature
+- Social post sharing
+- Vet & services discovery
+
+All designed with simplicity and emotional comfort in mind.
+
+ 👤 Target Audience:
+
+- Cat owners in Pakistan
+- First-time pet parents
+- Busy professionals
+- Students with pets
+- Families with indoor cats
+
+ 🧠 UX Research Approach:
+
+- Informal interviews with cat owners
+- Competitor analysis of global pet apps
+- Identifying common pain points
+- Feature prioritization using MVP strategy
+
+ 🗂 Information Architecture:
+
+Main Navigation (Bottom Bar):
+
+- Home
+- Diet
+- Community
+- Reminders
+- Profile
+
+Additional Screens:
+
+- Splash Screen
+- Login / Register
+- What You Can Manage Page
+- Create Post
+- Open Community Chat
+
+ 📱 Core Features:
+
+ 1️⃣ Home Dashboard:
+
+- Cat profile summary
+- Weight tracking
+- Health score indicator
+- Integrated calendar
+- Upcoming reminders & alerts
+
+ 2️⃣ Reminders
+
+- Vaccination alerts
+- Feeding schedule
+- Grooming reminders
+- Water intake tracking
+- Toggle notifications
+
+ 3️⃣ Community
+
+ Instagram-style post feed
+- Like, comment, share
+- Open community chat
+- Ask questions & get advice
+
+ 4️⃣ Create Post
+
+- Upload image/video
+- Add caption
+- Select visibility
+
+- 5️⃣ What You Can Manage
+
+- Health management
+- Diet & nutrition
+- Vet services
+- Community engagement
+- Profile management
+
+- 6️⃣ Profile
+
+- Manage cats
+- Health reports
+- App settings
+- Notification controls
+- Premium options
+
+ 🎨 Design System
+
+- Soft pastel color palette
+- Rounded UI components
+- Minimal iconography
+- Clear typography hierarchy
+- Emotional & friendly tone
+
+Design Principle:
+“Reduce stress, increase clarity.”
+
+ 🔄 User Flow
+
+1. Splash Screen
+2. Register / Login
+3. Create Cat Profile
+4. Explore Home Dashboard
+5. Set Reminders
+6. Join Community
+7. Track Health Regularly
+
+🚀 Future Improvements
+
+- Emergency vet locator with map integration
+- AI-based health suggestions
+- Vet booking system
+- Growth analytics charts
+- Multi-cat support enhancement
+
+ 📊 Key UX Learnings
+
+- Focused apps create stronger value than generalized ones
+- Emotional design matters in pet-related products
+- Simplicity increases trust
+- Clear hierarchy improves usability
+
+
+ 🛠 Tools Used
+
+- Figma
+- Wireframing tools
+- UX research methods
+- Prototyping
+
+ 📌 Status
+
+This is a UX/UI concept project created as part of my internship learning journey.
+
+ 👩‍💻 Designer
+[Aliza Noreen]
+UX/UI Design Intern
+
+ Home Dashboard
+![Home Dashboard](Mockups/home-dashboard.png)
+
+ Community Feed
+![Community Feed](Mockups/community.png)
+
+ Reminders Screen
+![Reminders](Mockups/reminder.png)
+
+## Profile Page
+![Profile Page](Mockups/profile.png)
